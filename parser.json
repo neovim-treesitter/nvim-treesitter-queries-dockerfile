@@ -1,9 +1,9 @@
 {
+  "generate": null,
+  "generate_from_json": null,
+  "url": "https://github.com/camdencheek/tree-sitter-dockerfile",
   "semver": false,
   "parser_version": "971acdd908568b4531b0ba28a445bf0bb720aba5",
   "location": null,
-  "lang": "dockerfile",
-  "generate": null,
-  "generate_from_json": null,
-  "url": "https://github.com/camdencheek/tree-sitter-dockerfile"
+  "lang": "dockerfile"
 }
